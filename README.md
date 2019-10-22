@@ -7,4 +7,5 @@ Completed Labs for Zwee Dao
 3. [Zwee Dao's Lab 3](//github.com/zweedao/IDD-Fa19-Lab3)
 4. [Zwee Dao's Lab 4](//github.com/zweedao/IDD-Fa19-Lab4)
 5. [Zwee Dao's Lab 5](//github.com/zweedao/IDD-Fa19-Lab5)
+6. [Zwee Dao's Lab 6](//github.com/zweedao/IDD-Fa19-Lab6)
 
